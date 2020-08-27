@@ -1,0 +1,7 @@
+1.de ce nu e java 100% object-oriented?
+2.exista o diferenta intre array si vector in java?
+3.la ce se folosea this?
+4.care e diferenta dintre un array si un array list?
+5.cum se transmite inharitance ul?
+6.ce este encapsulation?
+7. ce este object cloning?
